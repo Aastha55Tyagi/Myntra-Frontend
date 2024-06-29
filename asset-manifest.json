@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Aastha55Tyagi/Myntra-Frontend/static/css/main.2b883bde.css",
+    "main.js": "/Aastha55Tyagi/Myntra-Frontend/static/js/main.0f32318a.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/Aastha55Tyagi/Myntra-Frontend/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/sudio-nav-banner.png": "/Aastha55Tyagi/Myntra-Frontend/static/media/sudio-nav-banner.9baa9d1a811409ff9813.png",
+    "static/media/image6.webp": "/Aastha55Tyagi/Myntra-Frontend/static/media/image6.d667b5ef91009160b6f0.webp",
+    "static/media/image12.webp": "/Aastha55Tyagi/Myntra-Frontend/static/media/image12.74fab02bbe759975a5cd.webp",
+    "static/media/image11.webp": "/Aastha55Tyagi/Myntra-Frontend/static/media/image11.853abf0aa90481fc5f62.webp",
+    "static/media/image4.webp": "/Aastha55Tyagi/Myntra-Frontend/static/media/image4.4fc304ef176c9caadd07.webp",
+    "static/media/image9.webp": "/Aastha55Tyagi/Myntra-Frontend/static/media/image9.5a09231aa53fb0ce2dee.webp",
+    "static/media/image7.webp": "/Aastha55Tyagi/Myntra-Frontend/static/media/image7.e8952242d15a3a683870.webp",
+    "static/media/image5.webp": "/Aastha55Tyagi/Myntra-Frontend/static/media/image5.11a1c506a5813c18a9d9.webp",
+    "static/media/image8.webp": "/Aastha55Tyagi/Myntra-Frontend/static/media/image8.e2f197352fc945693cf7.webp",
+    "static/media/image10.webp": "/Aastha55Tyagi/Myntra-Frontend/static/media/image10.24103e813674b71e0bd4.webp",
+    "index.html": "/Aastha55Tyagi/Myntra-Frontend/index.html",
+    "main.2b883bde.css.map": "/Aastha55Tyagi/Myntra-Frontend/static/css/main.2b883bde.css.map",
+    "main.0f32318a.js.map": "/Aastha55Tyagi/Myntra-Frontend/static/js/main.0f32318a.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/Aastha55Tyagi/Myntra-Frontend/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b883bde.css",
+    "static/js/main.0f32318a.js"
+  ]
+}
